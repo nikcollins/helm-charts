@@ -9,3 +9,4 @@ home: https://github.com/slamdev/helm-charts/tree/master/charts/gke-preemptible-
 maintainers:
   - name: slamdev
     email: valentin.fedoskin@gmail.com
+dependencies: []

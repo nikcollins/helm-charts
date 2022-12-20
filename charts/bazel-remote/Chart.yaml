@@ -10,3 +10,4 @@ icon: https://bazel.build/images/bazel-icon.svg
 maintainers:
   - name: slamdev
     email: valentin.fedoskin@gmail.com
+dependencies: []

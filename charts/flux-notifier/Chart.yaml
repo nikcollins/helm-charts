@@ -10,3 +10,4 @@ icon: https://docs.fluxcd.io/en/1.19.0/_files/flux-icon@2x.png
 maintainers:
   - name: slamdev
     email: valentin.fedoskin@gmail.com
+dependencies: []

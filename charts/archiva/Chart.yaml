@@ -10,3 +10,4 @@ icon: http://archiva.apache.org/images/archiva.png
 maintainers:
   - name: slamdev
     email: valentin.fedoskin@gmail.com
+dependencies: []

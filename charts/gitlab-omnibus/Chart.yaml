@@ -11,3 +11,4 @@ icon: https://docs.gitlab.com/assets/images/gitlab-logo.svg
 maintainers:
   - name: slamdev
     email: valentin.fedoskin@gmail.com
+dependencies: []

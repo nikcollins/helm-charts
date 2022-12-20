@@ -10,3 +10,4 @@ icon: http://www.haproxy.org/img/HAProxyCommunityEdition_60px.png
 maintainers:
   - name: slamdev
     email: valentin.fedoskin@gmail.com
+dependencies: []
